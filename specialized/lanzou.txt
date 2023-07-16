@@ -1,3 +1,4 @@
+! Homepage: https://muselink.cc/yf07
 !蓝奏云
 wwk.lanzouw.com##div.foot_info:nth-child(5)
 wwyj.lanzouw.com##div.foot_info:nth-child(6) > div.foot_copy:last-child

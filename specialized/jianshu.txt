@@ -1,3 +1,4 @@
+! Homepage: https://muselink.cc/yf07
 !简书
 jianshu.com###__next > div._3Pnjry:last-child > div._1pUUKr:nth-child(2)
 jianshu.com###__next > div._3Pnjry:last-child > div._1pUUKr:last-child
