@@ -1,0 +1,13 @@
+!知乎
+zhihu.com##.Footer
+zhihu.com##.AppHeader-Tabs
+zhihu.com##.Button--iconOnly
+zhihu.com##.Button--gray
+!知乎专栏
+zhuanlan.zhihu.com##div:last-child > div > div.css-1ynzxqw
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > article.Post-Main.Post-NormalMain:nth-child(3) > div:last-child > div.Sticky.RichContent-actions.is-bottom > div.ContentItem-actions > button.Button.ContentItem-action.Button--plain.Button--withIcon.Button--withLabel:nth-child(6)
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.ColumnPageHeader-Wrapper:first-child > div > div.Sticky.ColumnPageHeader.css-1l12z7y > div.ColumnPageHeader-content:first-child > div.ColumnPageHeader-Button:last-child
+zhuanlan.zhihu.com##.css-1hwwfws
+zhuanlan.zhihu.com##.css-186oz3i
+zhuanlan.zhihu.com##.css-vurnku
+zhuanlan.zhihu.com##.SignContainer-tip

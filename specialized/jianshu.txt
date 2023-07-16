@@ -1,0 +1,8 @@
+!简书
+jianshu.com###__next > div._3Pnjry:last-child > div._1pUUKr:nth-child(2)
+jianshu.com###__next > div._3Pnjry:last-child > div._1pUUKr:last-child
+jianshu.com###__next > div._21bLU4._3kbg6I:nth-child(2) > div._3VRLsv > div._gp-ck:first-child > section.ouvJEz:first-child > div._13lIbp:nth-child(8)
+jianshu.com###menu > div._3Qa4dn5YlokOkxn6RsnEsL_0:last-child
+jianshu.com##nav.navbar.navbar-default.navbar-fixed-top:first-child > div.width-limit > a.btn.write-btn:nth-child(2)
+jianshu.com###__next > header:first-child > div._1CSgtu:first-child > div._3t3lfz.KEKfID:last-child > div.FTZkZo > div._26qd_C:last-child > button._1OyPqC._3Mi9q9._1YbC5u:last-child
+jianshu.com###__next > div._21bLU4._3kbg6I:nth-child(2) > div._3VRLsv > aside._2OwGUo:last-child > div:last-child > div > section._3Z3nHf:first-child

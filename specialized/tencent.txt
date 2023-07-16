@@ -1,0 +1,58 @@
+!腾讯网
+qq.com##.qq-gg, .gg-1
+qq.com###elevator
+qq.com##.qq-footer
+qq.com##.m-product2022
+qq.com###m-product
+qq.com##.barrierLink
+qq.com##.item-qmail
+qq.com##.item-qzone
+!腾讯视频
+v.qq.com###app > div.page-play.view-content:nth-child(3) > div.play-layout > div.page-content > div.container-main__wrapper:first-child > div.container-main > div.container-episode:last-child > div.c-loading.c-loading--loaded.episode-container > div.episode-panel__wrapper > div.b-sticky.episode-panel__scroll-wrapper > div.b-sticky__container.episode-panel__videolist > div.b-sticky__scroller:last-child > div.b-sticky__scrollee > div:first-child > div:nth-child(4)
+v.qq.com###app > div.page-play.view-content:nth-child(3) > div.play-layout > div.page-content > div.container-main__wrapper:first-child > div.container-main > div.container-episode:last-child > div.c-loading.c-loading--loaded.episode-container > div.episode-panel__wrapper > div.b-sticky.episode-panel__scroll-wrapper > div.b-sticky__container.episode-panel__videolist > div.b-sticky__scroller:last-child > div.b-sticky__scrollee > div:first-child > div.episode-list-hor:last-child
+v.qq.com###shortcut
+v.qq.com###iwan-game-switch-page
+v.qq.com###app > div.page-play.view-content:nth-child(3) > div.play-layout > div.page-content > div.container-main__wrapper:first-child > div.container-main > div.container-main__left:nth-child(2) > div.player.container-player:first-child > div.player-bottom.player__bottom:nth-child(2) > div.player-bottom__left:first-child > div.player-bottom__popup.player-bottom__item:nth-child(2)
+v.qq.com###app > div.page-play.view-content:nth-child(3) > div.play-layout > div.page-content > div.container-main__wrapper:first-child > div.container-main > div.container-main__left:nth-child(2) > div.player.container-player:first-child > div.player-bottom.player__bottom:nth-child(2) > div.player-bottom__left:first-child > div.player-bottom__popup.player-bottom__item.player-bottom__item-download:nth-child(3)
+v.qq.com###app > div.page-play.view-content:nth-child(3) > div.play-layout > div.page-content > div.container-main__wrapper:first-child > div.container-main > div.container-main__left:nth-child(2) > div.player.container-player:first-child > div.player-bottom.player__bottom:nth-child(2) > div.player-bottom__left:first-child > div.player-bottom__popup.player-bottom__item:nth-child(4)
+v.qq.com###app > div.page-play.view-content:nth-child(3) > div.play-layout > div.page-content > div.container-main__wrapper:first-child > div.container-main > div.container-main__left:nth-child(2) > div.player.container-player:first-child > div.player-bottom.player__bottom:nth-child(2) > div.player-bottom__left:first-child > div.player-bottom__popup.player-bottom__item:last-child
+v.qq.com###new_vs_header > div.head_inner:first-child > div.mod_quick.cf:nth-child(4) > div.quick_item.quick_games:nth-child(2)
+v.qq.com###new_vs_header > div.head_inner:first-child > div.mod_quick.cf:nth-child(4) > div.quick_item.quick_upload.__lite_hide__:nth-child(4)
+v.qq.com###pc_client
+v.qq.com###new_vs_header > div.head_inner:first-child > div.site_channel:nth-child(2) > a.channel_nav.channel_nav_8._channel_nav_云游戏\}:nth-child(9)
+v.qq.com###new_vs_header > div.head_inner:first-child > div.site_channel:nth-child(2) > a.channel_more._site_channel_more:last-child > svg.svg_icon_menu_sm:last-child
+v.qq.com###searchForm > button.search_btn:nth-child(5) > span.btn_inner:last-child
+!腾讯软件中心
+pc.qq.com##.banmgr-box
+pc.qq.com##.footer
+pc.qq.com##.link
+pc.qq.com##.notice
+pc.qq.com##.topbox
+pc.qq.com##.tbr-bigbox
+pc.qq.com###J_back_to_top_div
+!腾讯网要闻
+new.qq.com###loginWrap
+new.qq.com###Recomend
+new.qq.com###Status
+new.qq.com##.qq_nav
+new.qq.com###qqcom-rankWrap
+new.qq.com##.barrier-wrapper
+new.qq.com###aria
+new.qq.com###GoTop
+new.qq.com###Foot
+new.qq.com###LeftTool > div > div > div.article-interation > div.operation:last-child
+!腾讯视频VIP
+film.qq.com###new_vs_header > div.head_inner:last-child > div.site_pic:nth-child(3)
+!微信文件传输助手
+filehelper.weixin.qq.com##.footer
+filehelper.weixin.qq.com###app > div.page.page__login.page-logined > footer.footer:last-child
+filehelper.weixin.qq.com###app > div.page.page__login > footer.footer:last-child
+filehelper.weixin.qq.com###app > div.page.page__login > div.chat-main:nth-child(2) > div.login-scan:last-child > div.login-scan__panel > p.login-avatar__desc:nth-child(2) > span.logining__loading
+filehelper.weixin.qq.com###app > div.page.page__login > div.chat-main:nth-child(2) > h1.title:first-child
+filehelper.weixin.qq.com##.icon__more
+szfilehelper.weixin.qq.com##.footer
+szfilehelper.weixin.qq.com###app > div.page.page__login.page-logined > footer.footer:last-child
+szfilehelper.weixin.qq.com###app > div.page.page__login > footer.footer:last-child
+szfilehelper.weixin.qq.com###app > div.page.page__login > div.chat-main:nth-child(2) > div.login-scan:last-child > div.login-scan__panel > p.login-avatar__desc:nth-child(2) > span.logining__loading
+szfilehelper.weixin.qq.com###app > div.page.page__login > div.chat-main:nth-child(2) > h1.title:first-child
+szfilehelper.weixin.qq.com##.icon__more

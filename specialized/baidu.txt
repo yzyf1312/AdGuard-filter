@@ -1,4 +1,4 @@
-!baidu.com
+!百度官网
 baidu.com###s-hotsearch-wrapper
 baidu.com###s-top-left
 baidu.com###bottom_layer
@@ -6,7 +6,7 @@ baidu.com###s_side_wrapper
 baidu.com###ent_sug
 baidu.com###tsn_inner > div.options_2Vntk:last-child > span.hint_PIwZX.c_font_2AD7M:last-child
 baidu.com###u
-!baike.baidu.com
+!百度百科
 baike.baidu.com###J-declare-wrap
 baike.baidu.com##div.header-wrapper.pc-header-new:first-child > div.header:last-child > div.layout > a.topA:last-child
 baike.baidu.com##div.right-ad:nth-child(75)
@@ -32,9 +32,9 @@ baike.baidu.com##.topbar
 baike.baidu.com##.navbar-wrapper
 baike.baidu.com##.bottom-wrap
 baike.baidu.com##.right-wrap
-!fanyi.baidu.com
+!百度翻译
 fanyi.baidu.com##.footer
-!zhidao.baidu.com
+!百度知道
 zhidao.baidu.com###j-nav-menu-container > div.nav-show-control > div.nav-menu-layout > div.nav-menu.line > div.nav-menu-content.container > div.content-box > div.menu-right-section:last-child > ul.menu-right-list > li.menu-right-list-item.zhidao-app:nth-child(3)
 zhidao.baidu.com##div.head-wrap:nth-child(3)
 zhidao.baidu.com###userbar > ul.aside-list > li:first-child
@@ -45,7 +45,7 @@ zhidao.baidu.com##div.wgt-footer-new:nth-child(13)
 zhidao.baidu.com###qb-content > div.question-all-answers-number:nth-child(4) > div.question-number-text-chain:last-child
 zhidao.baidu.com###ask-info
 zhidao.baidu.com##.accuse-area
-!jingyan.baidu.com
+!百度经验
 jingyan.baidu.com###exp-article > div.wgt-feeds-video:nth-child(4) > div.exp-title.clearfix:first-child > ul.exp-info:last-child
 jingyan.baidu.com###tts-player-entry
 jingyan.baidu.com###aside
@@ -64,5 +64,5 @@ jingyan.baidu.com##.nav
 jingyan.baidu.com##.userbar-ul
 jingyan.baidu.com##.share-exp
 jingyan.baidu.com##.warning-warpper
-!baijiahao.baidu.com
+!百度百家号
 baijiahao.baidu.com###ssr-content > div.Wo80H:last-child

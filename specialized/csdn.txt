@@ -1,0 +1,10 @@
+!CSDN
+blog.csdn.net###asideNewNps
+blog.csdn.net##div:nth-child(50) > div.csdn-side-toolbar > a.option-box:nth-child(3)
+blog.csdn.net##div:nth-child(50) > div.csdn-side-toolbar > a.option-box:nth-child(2)
+blog.csdn.net###csdn-toolbar > div.toolbar-inside > div.toolbar-container > div.toolbar-container-right:last-child > div.toolbar-btns.onlyUser > div.toolbar-btn.toolbar-btn-vip.csdn-toolbar-fl:nth-child(2)
+blog.csdn.net###toolBarBox > div.left-toolbox > div.toolbox-middle:nth-child(2) > ul.toolbox-list > li.tool-item.tool-item-size.tool-active.tool-item-reward:nth-child(4)
+blog.csdn.net###mainBox > main:nth-child(2) > div.blog-footer-bottom:nth-child(16)
+blog.csdn.net###recommendNps
+blog.csdn.net###mainBox > main:nth-child(2) > div.template-box:nth-child(15)
+blog.csdn.net##.tool-QRcode
