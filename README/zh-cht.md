@@ -16,4 +16,4 @@
 
 1. [English (US)](./en-us.md)
 2. [简体中文](./zh-chs.md)
-3. 繁體中文
+3. [繁體中文](./zh-cht.md)

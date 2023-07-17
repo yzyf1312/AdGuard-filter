@@ -12,6 +12,6 @@ We apologize, however, that for now we can only provide filters for common web p
 
 ###### Polyglot
 
-1. English (US)
+1. [English (US)](./en-us.md)
 2. [简体中文](./zh-chs.md)
 3. [繁體中文](./zh-cht.md)
